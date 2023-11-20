@@ -1,0 +1,77 @@
+[
+    {
+        "nome": "Imperativo",
+        "caracteristicas": [
+            "Utiliza instruções para modificar o estado do programa.",
+            "Baseia-se em procedimentos e comandos.",
+            "Foco em 'como' a tarefa deve ser realizada.",
+            "Usa variáveis para armazenar dados e estados.",
+            "Controle de fluxo por meio de estruturas de decisão e loops.",
+            "Procedimentos podem ter efeitos colaterais.",
+            "Utiliza variáveis para armazenar valores mutáveis.",
+            "É fortemente ligado à arquitetura de máquina.",
+            "Ênfase em sequência de comandos executados.",
+            "Controle direto sobre a memória do programa."
+        ]
+    },
+    {
+        "nome": "Orientado a objetos",
+        "caracteristicas": [
+            "Modelagem de software baseada em objetos.",
+            "Encapsulamento: oculta a implementação interna dos objetos.",
+            "Herança: compartilhamento de características entre classes.",
+            "Polimorfismo: objetos de diferentes classes podem ser tratados de maneira uniforme.",
+            "Abstração: simplifica complexidades do mundo real.",
+            "Relacionamentos como composição e associação são fundamentais.",
+            "Encoraja o reuso de código por meio de herança.",
+            "Mensagens entre objetos para comunicação.",
+            "Classes abstraem conceitos do mundo real.",
+            "Polimorfismo permite extensibilidade do código."
+        ]
+    },
+    {
+        "nome": "Funcional",
+        "caracteristicas": [
+            "Trata a computação como avaliação de funções matemáticas.",
+            "Funções são tratadas como cidadãs de primeira classe.",
+            "Imutabilidade: dados não são modificados após a criação.",
+            "Programação declarativa: foca no 'o que' em vez do 'como'.",
+            "Recursividade é comum para expressar repetição.",
+            "Evita efeitos colaterais.",
+            "Trata funções como cidadãs de primeira classe.",
+            "Expressões lambda são comuns para funções anônimas.",
+            "Evita efeitos colaterais para facilitar o entendimento.",
+            "Foco em expressar lógica através de composição de funções."
+        ]
+    },
+    {
+        "nome": "Lógico",
+        "caracteristicas": [
+            "Baseado na lógica matemática.",
+            "Programação declarativa usando regras e fatos.",
+            "Inferência lógica: dedução de novos fatos a partir de regras existentes.",
+            "Utiliza a lógica de predicados.",
+            "Trata programas como conjuntos de cláusulas.",
+            "Busca por soluções através de unificação.",
+            "Utiliza regras de produção para representar conhecimento.",
+            "Suporte nativo para inferência automática.",
+            "Desenvolve programas como uma série de cláusulas.",
+            "Aplica unificação para resolver problemas lógicos."
+        ]
+    },
+    {
+        "nome": "Baseado em eventos",
+        "caracteristicas": [
+            "Programação centrada em eventos e ações assíncronas.",
+            "Resposta a eventos do usuário ou do sistema.",
+            "Usa callbacks para lidar com eventos.",
+            "Interface gráfica é comumente baseada em eventos.",
+            "Reage a mudanças no estado, não de forma contínua.",
+            "Facilita a criação de interfaces interativas.",
+            "Responde a eventos como clique do mouse ou pressionamento de tecla.",
+            "Programação assíncrona para lidar com eventos concorrentes.",
+            "Uso de listeners para capturar e tratar eventos.",
+            "Facilita a construção de sistemas reativos."
+        ]
+    }
+]
